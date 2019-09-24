@@ -14,6 +14,6 @@ Run it at following [link](https://gn8bamboo.shinyapps.io/Project/)
 
 ## Contributing
 - Haochen Sun
-- Jun Feng, 
+- Jun Feng
 - Andrew Tran 
 - Zhao Wang
